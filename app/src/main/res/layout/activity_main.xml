@@ -49,7 +49,7 @@
                 android:src="@drawable/share"
                 android:layout_alignParentRight="true"
                 android:layout_alignParentBottom="true"
-                android:margin="5dp"/>
+                android:layout_margin="5dp"/>
 
             <ImageView
                 android:id="@+id/heart"
@@ -58,7 +58,7 @@
                 android:src="@drawable/heart"
                 android:layout_toLeftOf="@id/share"
                 android:layout_alignParentBottom="true"
-                android:margin="5dp"/>
+                android:layout_margin="5dp"/>
 
             <ImageView
                 android:id="@+id/like"
@@ -67,7 +67,7 @@
                 android:src="@drawable/like"
                 android:layout_toLeftOf="@id/heart"
                 android:layout_alignParentBottom="true"
-                android:margin="5dp"/>
+                android:layout_margin="5dp"/>
 
         </RelativeLayout>
 
